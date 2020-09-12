@@ -1,0 +1,10 @@
+/Users/terauchishunsuke/projects/my_blog/hello-rocket/target/debug/deps/version_check-ab4b00eedf53f0cf.rmeta: /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/terauchishunsuke/projects/my_blog/hello-rocket/target/debug/deps/libversion_check-ab4b00eedf53f0cf.rlib: /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/terauchishunsuke/projects/my_blog/hello-rocket/target/debug/deps/version_check-ab4b00eedf53f0cf.d: /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs /Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs
+
+/Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/lib.rs:
+/Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/version.rs:
+/Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/channel.rs:
+/Users/terauchishunsuke/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.2/src/date.rs:
